@@ -11,7 +11,7 @@ Markdown是一种类似于HTML的标记语言，但它比HTML标记语言更简�
 |[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/index.html#link)|-|
 |[Markdown: Basics（快速入门）](http://wowubuntu.com/markdown/basic.html)|-|
 
-## 几个很好地Markdown编辑器
+## Markdown编辑器
 
 |名称|特点|
 |:--:|:--:|
