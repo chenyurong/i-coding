@@ -12,6 +12,7 @@ IntelJ13使用最新版本的Maven进行编译等操作时，会Maven会报以�
 
 打开偏好设置，找到`Maven->Runner`选项，在`VM Options`填入：`-Dmaven.multiModuleProjectDirectory=$M2_HOME`
 
-参考资料：
+
+参考资料：   
 [1].[https://youtrack.jetbrains.com/issue/IDEA-137783](https://youtrack.jetbrains.com/issue/IDEA-137783)
 [2].[http://stackoverflow.com/questions/29153115/dmaven-multimoduleprojectdirectory-system-propery-is-not-set-check-m2-home-en](http://stackoverflow.com/questions/29153115/dmaven-multimoduleprojectdirectory-system-propery-is-not-set-check-m2-home-en)

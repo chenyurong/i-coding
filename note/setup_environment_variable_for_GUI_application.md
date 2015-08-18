@@ -46,4 +46,6 @@ setenv JMETER_HOME /Applications/Dev/jakarta-jmeter
 NOTE：当你通过Spotlight启动图形化的IDE应用时，你在这里设置的环境变量也是有效的。
 
 
-参考资料：[http://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x](http://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x)
+
+参考资料：   
+[1].[http://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x](http://stackoverflow.com/questions/135688/setting-environment-variables-in-os-x)

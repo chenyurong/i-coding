@@ -46,6 +46,9 @@
 |/etc/profile|系统级别|
 |~/.bash_profile、~/.bash_login、~/.profile|用户级别|
 
-参考资料：
+
+
+参考资料：   
+
 [1].[http://www.cnblogs.com/ebread/p/4011150.html](http://www.cnblogs.com/ebread/p/4011150.html)
 
