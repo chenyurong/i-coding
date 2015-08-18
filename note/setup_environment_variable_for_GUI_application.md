@@ -10,8 +10,8 @@
 
 但是上面这些方式在最新的OSX系统都无法正常运行（OS X Yosemite 10.10.2）。经过实验，创建`/etc/launchd.conf`可以解决这个问题。
 
-- 打开命令行，并输入`sudo vim /etc/launchd.conf`（文件可能还未存在）
-- 在`launchd.conf`中填入以下内容
+1.打开命令行，并输入`sudo vim /etc/launchd.conf`（文件可能还未存在）
+2.在`launchd.conf`中填入以下内容
 
 ```
 # Set environment variables here so they are available globally to all apps
@@ -40,8 +40,8 @@ setenv M2_HOME /Applications/Dev/apache-maven
 setenv JMETER_HOME /Applications/Dev/jakarta-jmeter
 ```
 
-- 保存修改，然后重启电脑。或者你可以运行上面代码注释里说到的`grep..`命令使设置生效
-- 打开命令行，输入`export`，确保你设置的参数都生效了。
+3.保存修改，然后重启电脑。或者你可以运行上面代码注释里说到的`grep..`命令使设置生效
+4.打开命令行，输入`export`，确保你设置的参数都生效了。
 
 NOTE：当你通过Spotlight启动图形化的IDE应用时，你在这里设置的环境变量也是有效的。
 
