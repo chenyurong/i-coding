@@ -14,5 +14,5 @@ IntelJ13使用最新版本的Maven进行编译等操作时，会Maven会报以�
 
 
 参考资料：   
-[1].[https://youtrack.jetbrains.com/issue/IDEA-137783](https://youtrack.jetbrains.com/issue/IDEA-137783)
+[1].[https://youtrack.jetbrains.com/issue/IDEA-137783](https://youtrack.jetbrains.com/issue/IDEA-137783)   
 [2].[http://stackoverflow.com/questions/29153115/dmaven-multimoduleprojectdirectory-system-propery-is-not-set-check-m2-home-en](http://stackoverflow.com/questions/29153115/dmaven-multimoduleprojectdirectory-system-propery-is-not-set-check-m2-home-en)
