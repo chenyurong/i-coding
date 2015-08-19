@@ -19,11 +19,13 @@
 
 都设置好之后，在终端中进入到bin目录下，输入：`startup.sh`，可以看到出现Java的图标，然后在http://localhost:8080/中可以看到Tomcat的管理页面。我现在还没搞清楚，怎么能看到Tomcat的控制台输出？
 
+**查看tomcat日志**
+
+查看tomcat目录下得logs/localhost*.log文件
+
 **实时输出日志信息**
 
-我们可以通过几种方式查得到Tomcat的日志信息，一种是直接去log目录下查看catalina.out文件，但这样我们还是没办法实时看到日志输出信息。另一种方式就是在bin目录下运行：
-
-`sh catalina.sh run`
+用`sh catalina.sh run`来运行tomcat
 
 
 
