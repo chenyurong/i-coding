@@ -18,6 +18,7 @@
 
 相关资料：   
 - [Git Pages](https://pages.github.com/)
+- [Git Pages Help](https://help.github.com/categories/github-pages-basics/)
 
 参考资料：   
 - [http://www.linuxidc.com/Linux/2015-02/114121.htm](http://www.linuxidc.com/Linux/2015-02/114121.htm)   
