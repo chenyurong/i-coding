@@ -12,9 +12,12 @@
 
 最后，访问`chanshuyi.github.com`就可以大功告成了。
 
-
 之后你需要增加内容就直接帮你的html内容上传到这个仓库就可以了。
 
+如果你不想用http://username.github.com/jekyll_demo/这个域名，可以换成自己的域名。具体方法是在 repo 的根目录下面，新建一个名为 CNAME 的文本文件，里面写入你要绑定的域名，比如 example.com 或者 xxx.example.com。如果绑定的是顶级域名，则 DNS 要新建一条A记录，指向 204.232.175.78。如果绑定的是二级域名，则 DNS 要新建一条 CNAME 记录，指向 username.github.com（请将 username 换成你的用户名）。此外，别忘了将_config.yml 文件中的 baseurl 改成根目录"/"。
+
+相关资料：   
+- [Git Pages](https://pages.github.com/)
 
 参考资料：   
 - [http://www.linuxidc.com/Linux/2015-02/114121.htm](http://www.linuxidc.com/Linux/2015-02/114121.htm)   
