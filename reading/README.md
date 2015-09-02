@@ -7,5 +7,7 @@
 |[1991年潮汕分市纪事](http://book.douban.com/subject/19934449/)|150725174519|-|
 |[创京东：刘强东亲述创业之路](http://book.douban.com/subject/26400900/)|150802174639|-|
 |[活着](http://book.douban.com/subject/1082154/)|150817234502|-|
+|[激荡三十年（上）：中国企业1978-2008](http://book.douban.com/subject/1970428/)|150902234042|-|
+|[激荡三十年（下）：中国企业1978-2008](http://book.douban.com/subject/2380307/)|150902234125|-|
 
 
