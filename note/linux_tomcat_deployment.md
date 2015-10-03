@@ -1,6 +1,6 @@
 # Linux下Tomcat的部署
 
-下载Tomcat的对应版本，如 `http://tomcat.apache.org/download-70.cgi` 里面的 zip ，下载完成后直接解压。
+下载Tomcat的对应版本，如 [http://tomcat.apache.org/download-70.cgi](http://tomcat.apache.org/download-70.cgi) 里面的 zip ，下载完成后直接解压。
 
 这里需要解决两个问题：一个是**脚本的权限问题**，一个是**Java的环境变量问题**。
 
