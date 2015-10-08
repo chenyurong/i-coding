@@ -19,3 +19,6 @@
 |[MySQL 主从同步](MySQLMasterSlave.md)|151008111452|DB|
 |[Maven整合Struts/Spring/Hibernate](SSHWithMaven.md)|151008111452|DEV|
 |[开始使用Sublime](StartSublime.md)|151008113451|DEV|
+|[用dubbo构建REST服务](dubbo_app_intro.md)|151008113451|DEV|
+|[dubbo服务的管理](dubbo_zookeeper.md)|151008113451|DEV|
+|[redis使用](start_redis.md)|151008113451|DEV|
