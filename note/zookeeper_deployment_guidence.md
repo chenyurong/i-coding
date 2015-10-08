@@ -201,7 +201,7 @@ server.3=192.168.1.3:2088:3088
 ## zoo.cfg 文件配置
 
 |属性|含义|
-|--|--|
+|---|---|
 |clientPort=2181|客户端连接zookeeper服务的端口，这是一个TCP port|
 |dataDir=/data|dataDir里放的是内存数据结构的snapshot，便于快速恢复。|
 |dataLogDir=/datalog|dataLogDir里是放到的顺序日志(WAL)|
