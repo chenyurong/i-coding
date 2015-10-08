@@ -22,3 +22,6 @@
 |[用dubbo构建REST服务](dubbo_app_intro.md)|151008113451|DEV|
 |[dubbo服务的管理](dubbo_zookeeper.md)|151008113451|DEV|
 |[redis使用](start_redis.md)|151008113451|DEV|
+|[Zookeeper 集群部署](zookeeper_deployment_guidence.md)|20150724|-|
+|[Zookeeper zoo.cfg 文件配置](zookeeper_deployment_guidence_zoo_cfg_settings.md)|20150724|-|
+|[Nginx 配置指南](nginx_setting_explain.md)|20150725|-|
