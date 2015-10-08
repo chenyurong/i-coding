@@ -14,3 +14,8 @@
 |[Linux下Tomcat的部署](linux_tomcat_deployment.md)|150819095208|Linux|
 |[用Github创建你的个人站点](create_personal_website_via_github.md)|150821170341|Git|
 |[MySql 图形管理工具](mysql_gui.md)|151008111452|Git|
+|[改变Ruby的Gem源](change_Ruby_sources.md)|151008111452|Ruby|
+|[增加LOG4J支持](Log4J.md)|151008111452|DEV|
+|[MySQL 主从同步](MySQLMasterSlave.md)|151008111452|DB|
+|[Maven整合Struts/Spring/Hibernate](SSHWithMaven.md)|151008111452|DEV|
+|[开始使用Sublime](StartSublime.md)|151008113451|DEV|
