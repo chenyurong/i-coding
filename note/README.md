@@ -25,5 +25,6 @@
 |[Zookeeper 集群部署](zookeeper_deployment_guidence.md)|20150724|-| 
 |[Nginx 配置指南](nginx_setting_explain.md)|20150725|-|
 |[生成GitBook](create_gitbook.md)|20151105|-|
+|[数据库连接查询](db_join.md)|20151113|-|
 
 
