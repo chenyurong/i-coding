@@ -151,9 +151,11 @@ String s = hello(b, "pi", new Float(3.14));
 
 考虑例子School类，它使用类型参数V，该参数由Number类来限制： 
 
+```java
 public class School<V extends Number> { ... } 
+```
 
-School<Integer>School<Float>School<String>类型的变量，则会出现错误。类型参数V被判断为由Number限制。在没有类型限制时，假设类型参数由Object限制。
+`School<Integer>/School<Float>`可以正常定义。但是School<String>类型的变量，则会出现错误。类型参数V被判断为由Number限制。在没有类型限制时，假设类型参数由Object限制。
 
 ### 协变
 
