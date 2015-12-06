@@ -27,4 +27,4 @@
 |[生成GitBook](create_gitbook.md)|20151105|-|
 |[数据库连接查询](db_join.md)|20151113|-|
 |[IntelJ常用快捷键](Master_IntelJ.md)|20151117|-|
-
+|[Java泛型](Java_Generics.md)|20151206|-|
