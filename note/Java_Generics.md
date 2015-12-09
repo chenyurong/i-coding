@@ -82,7 +82,7 @@ map.put("3", "Tommy");
 String name = map.get(0);
 ```
 
-向上个这个例子所说的，我们声明了map是一个<String,String>类型的。当编译器编译到第一句的时候，编译器会将集合中的K/V占位符替换成String/String，也就是类似下面这样：
+向上个这个例子所说的，我们声明了map是一个`<String,String>`类型的。当编译器编译到第一句的时候，编译器会将集合中的`K/V`占位符替换成`String/String`，也就是类似下面这样：
 
 ```java
 public interface Map<String, String> { 
