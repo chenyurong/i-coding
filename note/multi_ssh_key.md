@@ -82,19 +82,16 @@ Hi [username]! You've successfully authenticated, but GitHub does not provide sh
 
 ## 常见问题
 
-**1、用`ssh -vT`命令测试通过了，但是为什么我还是不能从远程库clone项目？**
+**用`ssh -vT`命令测试通过了，但是为什么我还是不能从远程库clone项目？**   
 如果仔细检查了配置的ssh服务器地址和端口等信息无误后，还是出现这个问题，以我的经验来说，很可能是密钥出现了问题。这个时候你可以删除对应的密钥和公钥，重头开始进行密钥配置。
 
-**2、有没有更多的常见问题列表？**
+**有没有更多的常见问题列表？**   
 GitHub官方有一个常见问题列表，里面列举了许多ssh-key的常见错误，虽然是英文，但是用词非常简单，很容易看懂。传送门：[GitHub：Help](https://help.github.com/categories/ssh/)
 
-## 附录
-
-**1、关于Linux系统中ssh配置文件**   
-[http://book.51cto.com/art/200906/126284.htm](http://book.51cto.com/art/200906/126284.htm)   
-[http://www.xuebuyuan.com/414672.html](http://www.xuebuyuan.com/414672.html)
-
-**2、ssh-agent和ssh-add命令**   
-[http://man.linuxde.net/ssh-agent](http://man.linuxde.net/ssh-agent)   
-[http://man.linuxde.net/ssh-add](http://man.linuxde.net/ssh-add)
+参考资料：
+   
+[1.关于Linux系统中ssh配置文件1](http://book.51cto.com/art/200906/126284.htm)   
+[2.关于Linux系统中ssh配置文件2](http://www.xuebuyuan.com/414672.html)
+[3.ssh-agent和ssh-add命令1](http://man.linuxde.net/ssh-agent)   
+[4.ssh-agent和ssh-add命令2](http://man.linuxde.net/ssh-add)
 
