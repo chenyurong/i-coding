@@ -31,3 +31,4 @@
 |[配置多个SSH KEY](multi_ssh_key.md)|20160524|-|
 |[申请深圳公租房](sz_gongzufang_guide.md)|20160621|-|
 |[制作OSX启动盘](make_OSX_startup_disk.md)|20160621|-|
+|[Java分布式消息服务解决方案](java_distribute_msg_service.md)|20160621|-|
